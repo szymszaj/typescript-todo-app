@@ -1,0 +1,20 @@
+{
+  "name": "typescript-todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo application written in TypeScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "typescript",
+    "todo",
+    "example"
+  ],
+  "author": "szymszaj",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
